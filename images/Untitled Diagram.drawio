@@ -1,0 +1,114 @@
+<mxfile host="app.diagrams.net" modified="2021-03-10T16:30:42.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="NNxQBSAtPhXyz_zGBw7b" version="13.9.2" type="github">
+  <diagram id="PKa4Fx370AyZmjk1dY-i" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vUWDehtLBs1zf7mERBlb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-1" target="vUWDehtLBs1zf7mERBlb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;主題構思:投籃機&lt;br&gt;40823152&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-9" target="vUWDehtLBs1zf7mERBlb-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="230" />
+              <mxPoint x="385" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-9" value="&lt;font style=&quot;font-size: 21px&quot;&gt;工作分配&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.023;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-12" target="vUWDehtLBs1zf7mERBlb-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-12" target="vUWDehtLBs1zf7mERBlb-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-12" value="&lt;font style=&quot;font-size: 21px&quot;&gt;coppeliaSim模擬&lt;br&gt;4082315&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-13" target="vUWDehtLBs1zf7mERBlb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vUWDehtLBs1zf7mERBlb-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-13" value="&lt;font style=&quot;font-size: 21px&quot;&gt;機構設計:&lt;br&gt;40823152&lt;br&gt;40823153&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="235" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-16" target="vUWDehtLBs1zf7mERBlb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-16" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Inventor 3D繪圖&lt;br&gt;40823153&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-45" target="vUWDehtLBs1zf7mERBlb-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-45" value="&lt;span style=&quot;font-size: 21px&quot;&gt;模擬失敗&lt;/span&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;版本一&lt;/span&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;版本二&lt;/span&gt;&lt;br style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;版本三&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-47" target="vUWDehtLBs1zf7mERBlb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-47" value="&lt;font style=&quot;font-size: 21px&quot;&gt;問題分析:&lt;br&gt;&lt;br&gt;40823152&lt;br&gt;40823153&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="207.5" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-59" value="&lt;font style=&quot;font-size: 21px&quot;&gt;模擬成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313.75" y="610" width="142.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-60" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-59" target="vUWDehtLBs1zf7mERBlb-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="880" as="sourcePoint" />
+            <mxPoint x="385" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-70" target="vUWDehtLBs1zf7mERBlb-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-61" target="vUWDehtLBs1zf7mERBlb-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-61" target="vUWDehtLBs1zf7mERBlb-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-61" value="&lt;font style=&quot;font-size: 21px&quot;&gt;目標完成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="750" width="127.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-63" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Autocad 2D 平面工程圖&lt;br&gt;40823154&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-67" value="&lt;font style=&quot;font-size: 21px&quot;&gt;ppt製作:&lt;br&gt;40823154&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="925" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-70" value="&lt;font style=&quot;font-size: 21px&quot;&gt;投籃機完成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.585;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vUWDehtLBs1zf7mERBlb-72" target="vUWDehtLBs1zf7mERBlb-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="156" y="654" />
+              <mxPoint x="145" y="654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUWDehtLBs1zf7mERBlb-72" value="&lt;font style=&quot;font-size: 21px&quot;&gt;未來問題出現&lt;br&gt;&lt;br&gt;新增功能&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="737.5" width="130" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
