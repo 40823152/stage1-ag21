@@ -319,26 +319,26 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210315225715.2">&lt;section&gt;
 &lt;h2&gt;版本一&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1_VhLBBrMjL90N9OTufHESV0Iaxei1O1j?usp=sharing"&gt;籃球機 初代&lt;/a&gt;&lt;a href="https://drive.google.com/file/d/1VKoaZRUqZyUw8BrNMYHxvAL0ydmwwzsy/view?usp=sharing"&gt;&lt;span&gt;coppeliaSim模擬:&lt;/span&gt;版本0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1_VhLBBrMjL90N9OTufHESV0Iaxei1O1j?usp=sharing"&gt;籃球機 初代&lt;/a&gt;|&lt;a href="https://drive.google.com/file/d/1VKoaZRUqZyUw8BrNMYHxvAL0ydmwwzsy/view?usp=sharing"&gt;&lt;span&gt;coppeliaSim模擬:&lt;/span&gt;版本0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;版本一:試畫並且在coppeliaSim模擬&lt;/p&gt;
 &lt;p&gt;&lt;img caption="false" height="350" src="https://40823152.github.io/stage1-ag21/images/%E7%B1%83%E7%90%83%E6%A9%9F%E5%88%9D%E4%BB%A31.jpg" width="700"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210315225715.3">&lt;section&gt;
 &lt;h2&gt;版本二&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1aQpgnYPlhykg4OiwivtIGSgfcZ78cIsp?usp=sharing"&gt;籃球機 2&lt;/a&gt;&lt;a href="https://drive.google.com/file/d/1JCbYZZ1qowhfNIoPHNiW1OdA1sAjoruD/view?usp=sharing"&gt;coppeliaSim模擬:版本2&lt;/a&gt;&lt;span id="__caret" mce-data-marked="1"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1aQpgnYPlhykg4OiwivtIGSgfcZ78cIsp?usp=sharing"&gt;籃球機 2&lt;/a&gt;|&lt;a href="https://drive.google.com/file/d/1JCbYZZ1qowhfNIoPHNiW1OdA1sAjoruD/view?usp=sharing"&gt;coppeliaSim模擬:版本2&lt;/a&gt;&lt;span id="__caret" mce-data-marked="1"&gt;&lt;/p&gt;
 &lt;p&gt;版本二:繪圖人員調整及球棒前端的角度，使用coppeliaSim模擬球可以飛遠且有一定的高度。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="350" src="./../images/籃球機2.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210315225715.4">&lt;section&gt;
 &lt;h2&gt;版本三&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1mRIFlDJfi8JPJOuYiqUS0xwlG5lDGWj_?usp=sharing"&gt;籃球機 3&lt;/a&gt;&lt;a href="https://drive.google.com/file/d/14haIIBy6w6O-ibAfjcegHB8HMBOPhP3y/view?usp=sharing"&gt;coppeliaSim模擬:版本3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1mRIFlDJfi8JPJOuYiqUS0xwlG5lDGWj_?usp=sharing"&gt;籃球機 3&lt;/a&gt;|&lt;a href="https://drive.google.com/file/d/14haIIBy6w6O-ibAfjcegHB8HMBOPhP3y/view?usp=sharing"&gt;coppeliaSim模擬:版本3&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;版本三:新增籃框讓機構可以投籃，但是在coppeliaSim上模擬籃框會掉下來&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="350" src="https://40823152.github.io/stage1-ag21/images/%E7%B1%83%E7%90%83%E6%A9%9F3.jpg" width="700"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210315225715.5">&lt;section&gt;
 &lt;h2&gt;版本四&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1GhgbMJbaKh2e0Zb0xjlF-sdGHJVy5C8D?usp=sharing"&gt;籃球機 4&lt;/a&gt;&lt;a href="https://drive.google.com/file/d/1vWfztZrbkWKIqTI-B5sKLRIM5YI0OJST/view?usp=sharing"&gt;coppeliaSim模擬:版本4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1GhgbMJbaKh2e0Zb0xjlF-sdGHJVy5C8D?usp=sharing"&gt;籃球機 4&lt;/a&gt;|&lt;a href="https://drive.google.com/file/d/1vWfztZrbkWKIqTI-B5sKLRIM5YI0OJST/view?usp=sharing"&gt;coppeliaSim模擬:版本4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;版本四:將籃框與基座畫在一起讓籃框不會掉落&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="350" src="https://40823152.github.io/stage1-ag21/images/%E7%B1%83%E7%90%83%E6%A9%9F4.jpg" width="700"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
