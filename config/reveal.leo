@@ -45,13 +45,16 @@
 <v t="leo.20210315225656.2"><vh>slide 6-1</vh></v>
 <v t="leo.20210315225656.3"><vh>slide 6-2</vh></v>
 <v t="leo.20210315225656.4"><vh>slide 6-3</vh></v>
-<v t="leo.20210318135032.1"><vh>6-4</vh></v>
 </v>
 <v t="leo.20210315225715.1"><vh>slide 7</vh>
 <v t="leo.20210315225715.2"><vh>newHeadline</vh></v>
 <v t="leo.20210315225715.3"><vh>newHeadline</vh></v>
 <v t="leo.20210315225715.4"><vh>newHeadline</vh></v>
 <v t="leo.20210315225715.5"><vh>newHeadline</vh></v>
+<v t="leo.20210318135032.1"><vh>7-5</vh></v>
+</v>
+<v t="leo.20210318141028.1"><vh>slide 8</vh>
+<v t="leo.20210318141047.1"><vh>8-1</vh></v>
 </v>
 </v>
 </v>
@@ -377,6 +380,12 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318135032.1">&lt;section&gt;
 &lt;h3&gt;比例問題&lt;/h3&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/u-nFDktJBrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318141028.1">&lt;section&gt;
+ @others
+&lt;/section&gt;</t>
+<t tx="leo.20210318141047.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1rodmrYXJqC3yxqtAVuW-ymoReVMEc0Eo/view?usp=sharing" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
