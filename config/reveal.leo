@@ -385,7 +385,7 @@ vertical: body pane on the botton</t>
  @others
 &lt;/section&gt;</t>
 <t tx="leo.20210318141047.1">&lt;section&gt;
-&lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1rodmrYXJqC3yxqtAVuW-ymoReVMEc0Eo/view?usp=sharing" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1rodmrYXJqC3yxqtAVuW-ymoReVMEc0Eo/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
